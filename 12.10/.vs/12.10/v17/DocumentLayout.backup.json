@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code vs2022\\12.10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F293F65-41C3-4D8F-BB12-7ACCD6D23675}|12.10\\12.10.vcxproj|D:\\code vs2022\\12.10\\12.10\\remove_dptr.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0F293F65-41C3-4D8F-BB12-7ACCD6D23675}|12.10\\12.10.vcxproj|solutionrelative:12.10\\remove_dptr.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "remove_dptr.c",
+              "DocumentMoniker": "D:\\code vs2022\\12.10\\12.10\\remove_dptr.c",
+              "RelativeDocumentMoniker": "12.10\\remove_dptr.c",
+              "ToolTip": "D:\\code vs2022\\12.10\\12.10\\remove_dptr.c*",
+              "RelativeToolTip": "12.10\\remove_dptr.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-10T13:18:51.851Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
