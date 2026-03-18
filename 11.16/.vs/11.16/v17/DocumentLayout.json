@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code vs2022\\11.16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53564E5F-81E5-461F-97E3-4249895FCFD2}|11.16\\11.16.vcxproj|D:\\code vs2022\\11.16\\11.16\\zuicahnglianhao.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{53564E5F-81E5-461F-97E3-4249895FCFD2}|11.16\\11.16.vcxproj|solutionrelative:11.16\\zuicahnglianhao.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53564E5F-81E5-461F-97E3-4249895FCFD2}|11.16\\11.16.vcxproj|D:\\code vs2022\\11.16\\11.16\\feibo.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{53564E5F-81E5-461F-97E3-4249895FCFD2}|11.16\\11.16.vcxproj|solutionrelative:11.16\\feibo.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "zuicahnglianhao.c",
+              "DocumentMoniker": "D:\\code vs2022\\11.16\\11.16\\zuicahnglianhao.c",
+              "RelativeDocumentMoniker": "11.16\\zuicahnglianhao.c",
+              "ToolTip": "D:\\code vs2022\\11.16\\11.16\\zuicahnglianhao.c",
+              "RelativeToolTip": "11.16\\zuicahnglianhao.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-16T13:49:24.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "feibo.c",
+              "DocumentMoniker": "D:\\code vs2022\\11.16\\11.16\\feibo.c",
+              "RelativeDocumentMoniker": "11.16\\feibo.c",
+              "ToolTip": "D:\\code vs2022\\11.16\\11.16\\feibo.c",
+              "RelativeToolTip": "11.16\\feibo.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-16T13:22:29.552Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code vs2022\\\u987A\u5E8F\u8868\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\code vs2022\\\u987A\u5E8F\u8868\\\u987A\u5E8F\u8868\\shunxvbiao.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:\u987A\u5E8F\u8868\\shunxvbiao.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\code vs2022\\\u987A\u5E8F\u8868\\\u987A\u5E8F\u8868\\seq.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:\u987A\u5E8F\u8868\\seq.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\code vs2022\\\u987A\u5E8F\u8868\\\u987A\u5E8F\u8868\\contact.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:\u987A\u5E8F\u8868\\contact.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\code vs2022\\\u987A\u5E8F\u8868\\\u987A\u5E8F\u8868\\shunxvbiao.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:\u987A\u5E8F\u8868\\shunxvbiao.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\code vs2022\\\u987A\u5E8F\u8868\\\u987A\u5E8F\u8868\\contact.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:\u987A\u5E8F\u8868\\contact.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\code vs2022\\\u987A\u5E8F\u8868\\\u987A\u5E8F\u8868\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:\u987A\u5E8F\u8868\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "seq.h",
+              "DocumentMoniker": "D:\\code vs2022\\\u987A\u5E8F\u8868\\\u987A\u5E8F\u8868\\seq.h",
+              "RelativeDocumentMoniker": "\u987A\u5E8F\u8868\\seq.h",
+              "ToolTip": "D:\\code vs2022\\\u987A\u5E8F\u8868\\\u987A\u5E8F\u8868\\seq.h",
+              "RelativeToolTip": "\u987A\u5E8F\u8868\\seq.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-08T00:57:22.934Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "shunxvbiao.c",
+              "DocumentMoniker": "D:\\code vs2022\\\u987A\u5E8F\u8868\\\u987A\u5E8F\u8868\\shunxvbiao.c",
+              "RelativeDocumentMoniker": "\u987A\u5E8F\u8868\\shunxvbiao.c",
+              "ToolTip": "D:\\code vs2022\\\u987A\u5E8F\u8868\\\u987A\u5E8F\u8868\\shunxvbiao.c",
+              "RelativeToolTip": "\u987A\u5E8F\u8868\\shunxvbiao.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-24T06:28:44.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "contact.h",
+              "DocumentMoniker": "D:\\code vs2022\\\u987A\u5E8F\u8868\\\u987A\u5E8F\u8868\\contact.h",
+              "RelativeDocumentMoniker": "\u987A\u5E8F\u8868\\contact.h",
+              "ToolTip": "D:\\code vs2022\\\u987A\u5E8F\u8868\\\u987A\u5E8F\u8868\\contact.h",
+              "RelativeToolTip": "\u987A\u5E8F\u8868\\contact.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-09T00:26:29.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "shunxvbiao.c",
+              "DocumentMoniker": "D:\\code vs2022\\\u987A\u5E8F\u8868\\\u987A\u5E8F\u8868\\shunxvbiao.c",
+              "RelativeDocumentMoniker": "\u987A\u5E8F\u8868\\shunxvbiao.c",
+              "ToolTip": "D:\\code vs2022\\\u987A\u5E8F\u8868\\\u987A\u5E8F\u8868\\shunxvbiao.c",
+              "RelativeToolTip": "\u987A\u5E8F\u8868\\shunxvbiao.c",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-08T00:42:28.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "contact.c",
+              "DocumentMoniker": "D:\\code vs2022\\\u987A\u5E8F\u8868\\\u987A\u5E8F\u8868\\contact.c",
+              "RelativeDocumentMoniker": "\u987A\u5E8F\u8868\\contact.c",
+              "ToolTip": "D:\\code vs2022\\\u987A\u5E8F\u8868\\\u987A\u5E8F\u8868\\contact.c",
+              "RelativeToolTip": "\u987A\u5E8F\u8868\\contact.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-09T00:26:55.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "test.c",
+              "DocumentMoniker": "D:\\code vs2022\\\u987A\u5E8F\u8868\\\u987A\u5E8F\u8868\\test.c",
+              "RelativeDocumentMoniker": "\u987A\u5E8F\u8868\\test.c",
+              "ToolTip": "D:\\code vs2022\\\u987A\u5E8F\u8868\\\u987A\u5E8F\u8868\\test.c",
+              "RelativeToolTip": "\u987A\u5E8F\u8868\\test.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-08T12:44:04.602Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code vs2022\\12.15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3E51A4-B400-41BD-B4F5-CBDAC9B5262F}|12.15\\12.15.vcxproj|D:\\code vs2022\\12.15\\12.15\\\u6446\u7EBF.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D3E51A4-B400-41BD-B4F5-CBDAC9B5262F}|12.15\\12.15.vcxproj|solutionrelative:12.15\\\u6446\u7EBF.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3E51A4-B400-41BD-B4F5-CBDAC9B5262F}|12.15\\12.15.vcxproj|D:\\code vs2022\\12.15\\12.15\\press.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D3E51A4-B400-41BD-B4F5-CBDAC9B5262F}|12.15\\12.15.vcxproj|solutionrelative:12.15\\press.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6446\u7EBF.c",
+              "DocumentMoniker": "D:\\code vs2022\\12.15\\12.15\\\u6446\u7EBF.c",
+              "RelativeDocumentMoniker": "12.15\\\u6446\u7EBF.c",
+              "ToolTip": "D:\\code vs2022\\12.15\\12.15\\\u6446\u7EBF.c",
+              "RelativeToolTip": "12.15\\\u6446\u7EBF.c",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAswF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-21T12:52:23.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "press.c",
+              "DocumentMoniker": "D:\\code vs2022\\12.15\\12.15\\press.c",
+              "RelativeDocumentMoniker": "12.15\\press.c",
+              "ToolTip": "D:\\code vs2022\\12.15\\12.15\\press.c",
+              "RelativeToolTip": "12.15\\press.c",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAADYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-15T13:22:32.833Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

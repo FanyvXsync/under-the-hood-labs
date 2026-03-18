@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code vs2022\\9.30\u5C0F\u8BD5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC109B2-30C5-4307-893C-7BA2DAA4BA49}|9.30\u5C0F\u8BD5\\9.30\u5C0F\u8BD5.vcxproj|D:\\code vs2022\\9.30\u5C0F\u8BD5\\9.30\u5C0F\u8BD5\\\u4F60\u597D.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6EC109B2-30C5-4307-893C-7BA2DAA4BA49}|9.30\u5C0F\u8BD5\\9.30\u5C0F\u8BD5.vcxproj|solutionrelative:9.30\u5C0F\u8BD5\\\u4F60\u597D.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC109B2-30C5-4307-893C-7BA2DAA4BA49}|9.30\u5C0F\u8BD5\\9.30\u5C0F\u8BD5.vcxproj|D:\\code vs2022\\9.30\u5C0F\u8BD5\\9.30\u5C0F\u8BD5\\1-100\u7684\u5947\u6570.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6EC109B2-30C5-4307-893C-7BA2DAA4BA49}|9.30\u5C0F\u8BD5\\9.30\u5C0F\u8BD5.vcxproj|solutionrelative:9.30\u5C0F\u8BD5\\1-100\u7684\u5947\u6570.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u4F60\u597D.c",
+              "DocumentMoniker": "D:\\code vs2022\\9.30\u5C0F\u8BD5\\9.30\u5C0F\u8BD5\\\u4F60\u597D.c",
+              "RelativeDocumentMoniker": "9.30\u5C0F\u8BD5\\\u4F60\u597D.c",
+              "ToolTip": "D:\\code vs2022\\9.30\u5C0F\u8BD5\\9.30\u5C0F\u8BD5\\\u4F60\u597D.c",
+              "RelativeToolTip": "9.30\u5C0F\u8BD5\\\u4F60\u597D.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-30T06:48:18.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "1-100\u7684\u5947\u6570.c",
+              "DocumentMoniker": "D:\\code vs2022\\9.30\u5C0F\u8BD5\\9.30\u5C0F\u8BD5\\1-100\u7684\u5947\u6570.c",
+              "RelativeDocumentMoniker": "9.30\u5C0F\u8BD5\\1-100\u7684\u5947\u6570.c",
+              "ToolTip": "D:\\code vs2022\\9.30\u5C0F\u8BD5\\9.30\u5C0F\u8BD5\\1-100\u7684\u5947\u6570.c",
+              "RelativeToolTip": "9.30\u5C0F\u8BD5\\1-100\u7684\u5947\u6570.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-30T06:31:58.041Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
