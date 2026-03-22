@@ -18,7 +18,6 @@ LL calc(LL x)
 
 
         i = j - 1;
-    }
 
     return ret;
 }
