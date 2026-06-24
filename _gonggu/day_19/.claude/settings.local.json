@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -m json.tool .vscode/tasks.json)",
+      "Bash(python -m json.tool .vscode/launch.json)",
+      "Bash(python *)"
+    ]
+  }
+}
