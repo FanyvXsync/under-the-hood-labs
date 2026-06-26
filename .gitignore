@@ -1,0 +1,46 @@
+# Editor and IDE local state
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio C/C++ build output
+[Dd]ebug/
+[Rr]elease/
+[Xx]64/
+[Xx]86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+ipch/
+*.ipch
+*.iobj
+*.ipdb
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.exp
+*.lib
+*.log
+*.tlog
+*.lastbuildstate
+*.recipe
+
+# Compiled executables and libraries
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.out
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini

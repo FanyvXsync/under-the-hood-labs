@@ -1,1 +1,0 @@
- for(auto e : path) printf("%5d",e);

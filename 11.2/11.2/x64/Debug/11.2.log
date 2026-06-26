@@ -1,5 +1,0 @@
-﻿  shangxue.c
-D:\code vs2022\11.2\11.2\shangxue.c(7,8): warning C4477: “scanf”: 格式字符串“%lf”需要类型“double *”的参数，但可变参数 1 拥有了类型“double”
-D:\code vs2022\11.2\11.2\shangxue.c(7,8): warning C4477: “scanf”: 格式字符串“%lf”需要类型“double *”的参数，但可变参数 2 拥有了类型“double”
-D:\code vs2022\11.2\11.2\shangxue.c(7,1): error C4700: 使用了未初始化的局部变量“v”
-D:\code vs2022\11.2\11.2\shangxue.c(7,1): error C4700: 使用了未初始化的局部变量“s”
