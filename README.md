@@ -6,7 +6,7 @@
 
 [![Language](https://img.shields.io/badge/Language-C%2B%2B %2F C-blue.svg?style=flat-square&logo=c%2B%2B)](https://en.cppreference.com/)
 [![Environment](https://img.shields.io/badge/Environment-Linux %2F Ubuntu-orange.svg?style=flat-square&logo=linux)](https://www.linux.org/)
-[![IDE](https://img.shields.io/badge/IDE-VS Code %2F Vim-blueviolet.svg?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
+[![IDE](https://img.shields.io/badge/IDE-VS_Code %2F Vim-blueviolet.svg?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
 这个仓库记录我在底层开发、系统能力和工程实践上的学习痕迹。
@@ -30,9 +30,9 @@
 
 * **OS:**  Linux (Ubuntu) / Windows Subsystem for Linux (WSL2)/ Windows 
 
-* * **Compiler:** GCC/G++ (Support C++17/20) 
+* **Compiler:** GCC/G++ (Support C++17/20) 
 
-    **Editor:** Vim / VS Code
+* **Editor:** Vim / VS Code
 
 ## 我在意的东西
 
