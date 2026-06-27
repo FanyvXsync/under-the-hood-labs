@@ -1,10 +1,19 @@
 # 向下生长
 
+# 🛠️ Under the Hood Labs
+
+> 深入计算机底层，记录从 C/C++ 语言核心、底层数据结构到 Linux 系统编程的探索历程。
+
+[![Language](https://img.shields.io/badge/Language-C%2B%2B %2F C-blue.svg?style=flat-square&logo=c%2B%2B)](https://en.cppreference.com/)
+[![Environment](https://img.shields.io/badge/Environment-Linux %2F Ubuntu-orange.svg?style=flat-square&logo=linux)](https://www.linux.org/)
+[![IDE](https://img.shields.io/badge/IDE-VS Code %2F Vim-blueviolet.svg?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+
 这个仓库记录我在底层开发、系统能力和工程实践上的学习痕迹。
 
 它不是一份包装好的教程，也不是只放最终答案的代码集。这里会放博客、笔记、实验代码、早期练习，以及一些还没来得及整理得很漂亮的老东西。很多内容还在慢慢补，但方向还是挺明确的：把语言、数据结构、系统、工具和算法这些基础能力，一点一点往下扎实。
 
-## 仓库内容
+##  📂 模块导览
 
 | 目录 | 内容 |
 | --- | --- |
@@ -14,6 +23,16 @@
 | `03-databases` | MySQL 等数据库学习记录 |
 | `04-devops-tools` | Docker、测试、工程工具，以及后续可能补充的开发流程内容 |
 | `05-algorithm` | 算法刷题、早期代码和后续整理的笔记 |
+
+
+
+## 🛠️ 开发环境 
+
+* **OS:**  Linux (Ubuntu) / Windows Subsystem for Linux (WSL2)/ Windows 
+
+* * **Compiler:** GCC/G++ (Support C++17/20) 
+
+    **Editor:** Vim / VS Code
 
 ## 我在意的东西
 
