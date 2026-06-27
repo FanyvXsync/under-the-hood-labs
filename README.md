@@ -4,9 +4,9 @@
 
 > 深入计算机底层，记录从 C/C++ 语言核心、底层数据结构到 Linux 系统编程的探索历程。
 
-[![Language](https://img.shields.io/badge/Language-C%2B%2B %2F C-blue.svg?style=flat-square&logo=c%2B%2B)](https://en.cppreference.com/)
-[![Environment](https://img.shields.io/badge/Environment-Linux %2F Ubuntu-orange.svg?style=flat-square&logo=linux)](https://www.linux.org/)
-[![IDE](https://img.shields.io/badge/IDE-VS_Code %2F Vim-blueviolet.svg?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
+[![Language](https://img.shields.io/badge/Language-C%2B%2B%2FC-blue.svg?style=flat-square&logo=c%2B%2B)](https://en.cppreference.com/)
+[![Environment](https://img.shields.io/badge/Environment-Linux%2FUbuntu-orange.svg?style=flat-square&logo=linux)](https://www.linux.org/)
+[![IDE](https://img.shields.io/badge/IDE-VS_Code%2FVim-blueviolet.svg?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
 这个仓库记录我在底层开发、系统能力和工程实践上的学习痕迹。
